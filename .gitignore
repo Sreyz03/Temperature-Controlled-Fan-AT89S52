@@ -1,0 +1,13 @@
+# Build / Temporary files
+*.hex
+*.lst
+*.obj
+*.o
+*.axf
+*.uvproj*
+*.uvopt*
+/build/
+
+# OS files
+.DS_Store
+Thumbs.db
